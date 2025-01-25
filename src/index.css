@@ -8,6 +8,9 @@
 
 body {
     font-family: Arial, Helvetica, sans-serif;
+    background-color: var(--cb-color-surface-bg);
+    width: 100vh;
+    height: 100vh;
 }
 
 ul {
