@@ -1,0 +1,5 @@
+.cb-title {
+    font-family: var( --cb-font-family-title);
+    color: var(--cb-color-text-primary, #000);
+    font-size: var(--cb-font-size-page-title);
+}
