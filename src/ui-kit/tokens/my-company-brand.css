@@ -7,6 +7,7 @@
     --cb-color-surface-primary: var(--cb-color-brand-orange);
     --cb-color-surface-primary-hover: var(--cb-color-orange-600);
     --cb-color-surface-secondary: var(--cb-color-orange-100);
+    --cb-color-surface-secondary-hover: var(--cb-color-orange-200);
     --cb-color-surface-disabled: var(--cb-color-neutrals-100);
     --cb-color-surface-success: var(--cb-color-green-400);
     --cb-color-surface-danger: var(--cb-color-red-400);
@@ -90,6 +91,7 @@
     --cb-color-surface-primary: var(--cb-color-brand-orange);
     --cb-color-surface-primary-hover: var(--cb-color-orange-800);
     --cb-color-surface-secondary: var(--cb-color-orange-900);
+    --cb-color-surface-secondary-hover: var(--cb-color-orange-700);
     --cb-color-surface-disabled: var(--cb-color-neutrals-900);
     --cb-color-surface-success: var(--cb-color-green-900);
     --cb-color-surface-danger: var(--cb-color-red-900);
