@@ -1,0 +1,25 @@
+.cb-button {
+    padding: var(--cb-spacing-s, 16px) var(--cb-spacing-lg, 24px);
+    border-radius: var(--cb-border-radius-md, 8px);
+    color: var(--cb-color-text-primary);
+    font-size: var(--cb-font-size-body-sm);
+    font-family: var(--cb-font-family-body);
+    border: none;
+}
+
+.cb-button--primary {
+    background-color: var(--cb-color-surface-primary);
+}
+
+.cb-button--primary:hover {
+    background-color: var(--cb-color-surface-primary-hover);
+}
+
+.cb-button--secondary {
+    background-color: var(--cb-color-surface-secondary);
+}
+
+.cb-button--secondary:hover {
+    background-color: var(--cb-color-surface-secondary-hover);
+}
+
